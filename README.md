@@ -1,0 +1,2 @@
+# tst
+setting up git
